@@ -1,4 +1,4 @@
-package com.example.saurabh.happybirthday;
+package com.example.name.happybirthday;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
